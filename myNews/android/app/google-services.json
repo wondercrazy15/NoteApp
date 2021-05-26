@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "4683433780",
+    "firebase_url": "https://gallayapp-flutter.firebaseio.com",
+    "project_id": "gallayapp-flutter",
+    "storage_bucket": "gallayapp-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4683433780:android:b434d08b9ccea9bfb18761",
+        "android_client_info": {
+          "package_name": "com.gallary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "4683433780-6mr8df1q93anf8qsrkh5vuk493u616sd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gallary",
+            "certificate_hash": "0b47925bd640afc6661a12c190c31d084e91cca9"
+          }
+        },
+        {
+          "client_id": "4683433780-fqi42i96fb9el1bspesqbcoe13g5ep0e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5Ws5ySKW0wnQ2Fs6kOY4fDSm1m9lJ-7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "4683433780-fqi42i96fb9el1bspesqbcoe13g5ep0e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "4683433780-3ao605b7qa5uibfp3r8o709nnmd2m1im.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gallary"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

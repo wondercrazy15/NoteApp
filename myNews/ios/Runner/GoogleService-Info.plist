@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>4683433780-3ao605b7qa5uibfp3r8o709nnmd2m1im.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.4683433780-3ao605b7qa5uibfp3r8o709nnmd2m1im</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDMtWk_vYj5vkPJWVqgSS9P2ljGbjjpC8E</string>
+	<key>GCM_SENDER_ID</key>
+	<string>4683433780</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.gallary</string>
+	<key>PROJECT_ID</key>
+	<string>gallayapp-flutter</string>
+	<key>STORAGE_BUCKET</key>
+	<string>gallayapp-flutter.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:4683433780:ios:e89ca5de77c87ecfb18761</string>
+	<key>DATABASE_URL</key>
+	<string>https://gallayapp-flutter.firebaseio.com</string>
+</dict>
+</plist>
